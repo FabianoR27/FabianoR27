@@ -57,19 +57,19 @@
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FabianoR27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianoR27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=FabianoR27&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FabianoR27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" width="450" alt="stats graph"  /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianoR27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" width="450" alt="languages graph"  /><br>
+  <img src="https://streak-stats.demolab.com?user=FabianoR27&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="450" alt="streak graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<div align="right">
+<div align="center">
   <a href="https://open.spotify.com/user/fabianor27">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=fabianor27&count=3&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=fabianor27&count=3&unique=false" width="450" alt="Spotify recently played"  />
   </a>
 </div>
 
