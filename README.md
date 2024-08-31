@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Fabiano, I'm 29 and I'm a system developer student from São Paulo, Brazil. 😎🚀</p>
+<p align="left">My name is Fabiano, I'm 29 and I'm a system dev student from São Paulo, Brazil. 😎🚀</p>
 
 ##
 
