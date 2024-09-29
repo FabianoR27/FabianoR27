@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Fabiano, I'm 29 and I'm a system dev student from São Paulo, Brazil. 😎🚀</p>
+<p align="left">My name is Fabiano, I'm 29 years old, an IT student from São Paulo, Brazil, and I'm trying to become a Front-End Developer. 😎🚀</p>
 
 ##
 
@@ -13,11 +13,7 @@
 
 <br clear="both">
 
-<div align="center">
-  <a href="https://open.spotify.com/user/fabianor27">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=fabianor27&count=3&unique=false" width="450" alt="Spotify recently played"  />
-  </a>
-</div>
+
 
 ##
 
