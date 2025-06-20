@@ -24,13 +24,15 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="Bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="40" alt="Git logo"  />
 </div>
 
 ###
